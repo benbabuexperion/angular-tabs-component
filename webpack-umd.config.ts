@@ -15,7 +15,7 @@ export default {
     path: path.join(__dirname, 'dist'),
     filename: '[name].js',
     libraryTarget: 'umd',
-    library: 'angular-tabs-component'
+    library: 'exp-tabs'
   },
   resolve: {
     extensions: [ '.ts', '.js', '.json' ]

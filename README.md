@@ -1,4 +1,4 @@
-# angular-tabs-component
+# exp-tabs
 ## A full featured tab component for Angular (2 and above, including 4).
 
 I have used tabs so many times but i never found a tab component basic and simple enough to use in angular 2/4.
@@ -15,17 +15,17 @@ So, i decided to build one for Angular, with all the basic features-
 If you like this, support the project by starring it!
 
 ## Angular supported version
-angular-tabs-component supports angular 2.X.X releases, 4.X.X releases, and AoT compilation.
+exp-tabs supports angular 2.X.X releases, 4.X.X releases, and AoT compilation.
 
 ## Example
 To install the library:
 ```
-npm install angular-tabs-component
+npm install exp-tabs
 ```
 
 Include the library into your app module-
 ```
-import { TabModule } from 'angular-tabs-component';
+import { TabModule } from 'exp-tabs';
 ```
 
 Add it to your @NgModule imports-

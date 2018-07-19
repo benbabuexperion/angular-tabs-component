@@ -1,5 +1,5 @@
 {
-  "name": "angular-tabs-component",
+  "name": "exp-tabs",
   "version": "1.0.5",
   "description": "A full featured tab component for Angular (2 and above, including 4).",
   "main": "./dist/index.umd.js",
